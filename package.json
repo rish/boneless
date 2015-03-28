@@ -1,0 +1,26 @@
+{
+  "name": "boneless",
+  "version": "0.0.0",
+  "description": "Skins for Skeleton",
+  "main": "gulp.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rish/boneless.git"
+  },
+  "keywords": [
+    "skeleton",
+    "css",
+    "sass",
+    "themes",
+    "ui"
+  ],
+  "author": "Rish",
+  "license": "wtfpl",
+  "bugs": {
+    "url": "https://github.com/rish/boneless/issues"
+  },
+  "homepage": "https://github.com/rish/boneless"
+}
