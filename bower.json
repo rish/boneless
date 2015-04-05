@@ -1,0 +1,23 @@
+{
+  "name": "boneless",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rish/boneless",
+  "authors": [
+    "Rish <rish@users.noreply.github.com>"
+  ],
+  "description": "Skins for Skeleton",
+  "keywords": [
+    "skeleton",
+    "css",
+    "themes",
+    "ui"
+  ],
+  "license": "wtfpl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
